@@ -13,7 +13,7 @@ from matching import carb_content, glycemic_index, print_product_info
 
 
 # Указать токен бота
-TOKEN = "7073767456:AAFJgETu73GqvKLq2N7Wy5WBdhsLbt8bGo0"
+TOKEN = ""
 
 dp = Dispatcher()
 
